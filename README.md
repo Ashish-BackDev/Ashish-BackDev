@@ -5,3 +5,5 @@
 ![HTML](https://img.shields.io/badge/HTML-55%25-lightgreen)
 ![CSS](https://img.shields.io/badge/CSS-40%25-yellow)
 
+![Skills Progress Chart](https://github.com/yourusername/yourrepositoryname/path/to/yourimage.png)
+
