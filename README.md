@@ -1,5 +1,5 @@
 <p align="center">
-  ## Hi there 👋, I'm Ashish Rawat
+    <b>Hi there 👋, I'm Ashish Rawat</b>
 </p>
 <hr style="border: 2px solid #2980b9; width: 80%; margin: 20px auto;">
 
