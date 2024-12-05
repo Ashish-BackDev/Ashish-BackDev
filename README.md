@@ -2,45 +2,25 @@
   ## Hi there 👋, I'm Ashish Rawat
 </p>
 <hr style="border: 2px solid #2980b9; width: 80%; margin: 20px auto;">
-# Hi there 👋, I'm Ashish Rawat
-
-Welcome to my GitHub profile! I'm a passionate software developer with experience in various programming languages and web development technologies. I'm currently focused on expanding my skills in Data Structures and Algorithms, along with working on several exciting projects.
+"Welcome to my GitHub! I'm a passionate software developer with experience in multiple programming languages and web development. Currently, I'm focusing on enhancing my skills in Data Structures and Algorithms, while working on exciting projects."
 
 ---
 
-### 🔭 I’m currently working on:
-- Building a **TicTacToe game** using C++.
-- Developing web applications with **HTML**, **CSS**, and **JavaScript**.
-- Exploring **Machine Learning** and **AI** using Python.
+### 🔭 Repositories:
+- Checkout my GitHub repositories on TecTacToe game,Appointment-System.
 
 ### 🌱 I’m currently learning:
 - Data Structures and Algorithms (DSA) in **C++**.
-- Advanced **Python** for AI and Data Science.
-- Modern **JavaScript** frameworks and libraries (like React).
+- Advanced **Python**.
 
 ### 👯 I’m looking to collaborate on:
-- **Open-source projects** related to web development, Python, or AI.
+- **Open-source projects** related to web development, Python, C++.
 - **Code review** and mentorship opportunities.
-- Projects involving **Data Structures** and **Algorithms**.
-
-### 💬 Ask me about:
-- **Programming**, **Web Development**, **Python**, **C++**, or anything tech-related!
 
 ### 📫 How to reach me:
-- You can reach out to me via my email: **aashishrawat.dev@example.com**.
-- Find me on [LinkedIn](https://www.linkedin.com/in/ashishrawat/) or [Twitter](https://twitter.com/ashishrawat).
-
-### ⚡ Fun fact:
-- I love experimenting with new recipes in the kitchen! 🍳
-
----
-
-### 🔧 Technologies & Tools:
-- **Languages:** Python, C++, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Flask
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, GitHub, Visual Studio Code, Jupyter
-
+- You can reach out to me via my email: **ashish.backenddev@gmail.com**.
+- Find me on [LinkedIn](https://www.linkedin.com/in/AshishRawat/) or [instagram](https://twitter.com/techbycode0).
+- 
 ---
 
 ### 📈 GitHub Stats:
