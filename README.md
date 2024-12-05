@@ -7,7 +7,9 @@
 ---
 
 ### 🔭 Repositories:
-- Checkout my GitHub repositories on TecTacToe game,Appointment-System.
+- Checkout my **TicTacToe Game**: [TicTacToe-Game](https://github.com/Ashish-BackDev/TicTacToe-Game)
+- Checkout my **Appointment System**: [Appointment System](https://github.com/Ashish-BackDev/Appointment-System-cpp)
+
 
 ### 🌱 I’m currently learning:
 - Data Structures and Algorithms (DSA) in **C++**.
@@ -28,7 +30,3 @@
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-BackDev&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 Feel free to explore my repositories and contribute to open-source projects. Let's connect and learn together!
-
-
-
-
