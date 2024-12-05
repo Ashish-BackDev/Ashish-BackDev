@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  ## Hi there 👋, I'm Ashish Rawat
+</p>
 
 ![Python](https://img.shields.io/badge/Python-0%25-brightgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-50%25-yellowgreen)
