@@ -19,7 +19,7 @@
 
 ### 📫 How to reach me:
 - You can reach out to me via my email: **ashish.backenddev@gmail.com**.
-- Find me on [LinkedIn](https://www.linkedin.com/in/AshishRawat/) or [instagram](https://instagram.com/techbycode0).
+- Find me on [LinkedIn](https://www.linkedin.com/in/ashish-rawat-a556a9318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [instagram](https://www.instagram.com/ashurwt143/profilecard/?igsh=ZG43ZHpiYnBjeXVy).
 - 
 ---
 
